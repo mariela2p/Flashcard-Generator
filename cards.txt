@@ -1,0 +1,2 @@
+Question: What color is the sky?, Answer: Blue
+Full Text: The grass color is green, Cloze: green
